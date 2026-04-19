@@ -11,7 +11,7 @@ export default function App() {
     return findLanguageBySlug(selectedLanguage);
   }, [selectedLanguage]);
 
-  const downloadHref = "/audio/" + activeLanguage.slug + ".mp3";
+  const downloadHref = import.meta.env.BASE_URL + "audio/" + activeLanguage.slug + ".mp3";
   const downloadName = "incorrect-number-" + activeLanguage.slug + ".mp3";
 
   return (
