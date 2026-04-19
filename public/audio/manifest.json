@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "en",
+    "label": "English",
+    "file": "en.mp3",
+    "text": "You have the incorrect number."
+  },
+  {
+    "slug": "sk",
+    "label": "Slovak",
+    "file": "sk.mp3",
+    "text": "Vytočili ste nesprávne číslo."
+  },
+  {
+    "slug": "cs",
+    "label": "Czech",
+    "file": "cs.mp3",
+    "text": "Vytočili jste nesprávné číslo."
+  },
+  {
+    "slug": "de",
+    "label": "German",
+    "file": "de.mp3",
+    "text": "Sie haben die falsche Nummer gewählt."
+  },
+  {
+    "slug": "fr",
+    "label": "French",
+    "file": "fr.mp3",
+    "text": "Vous avez composé le mauvais numéro."
+  },
+  {
+    "slug": "es",
+    "label": "Spanish",
+    "file": "es.mp3",
+    "text": "Ha marcado el número equivocado."
+  },
+  {
+    "slug": "it",
+    "label": "Italian",
+    "file": "it.mp3",
+    "text": "Ha composto il numero sbagliato."
+  },
+  {
+    "slug": "pt",
+    "label": "Portuguese",
+    "file": "pt.mp3",
+    "text": "Você ligou para o número errado."
+  },
+  {
+    "slug": "pl",
+    "label": "Polish",
+    "file": "pl.mp3",
+    "text": "Wybrano niewłaściwy numer."
+  },
+  {
+    "slug": "hu",
+    "label": "Hungarian",
+    "file": "hu.mp3",
+    "text": "Rossz számot tárcsázott."
+  }
+]
